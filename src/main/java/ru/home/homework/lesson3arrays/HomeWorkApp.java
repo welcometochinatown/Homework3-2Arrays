@@ -11,7 +11,6 @@ public class HomeWorkApp {
         int[] arr = {1, 5, 6, 7, 8, 9, 77, 2, 111, -2, -5};
         int min = arr[0];
         int max = arr[0];
-        ;
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] > max) {
                 max = arr[i];
@@ -63,7 +62,7 @@ public class HomeWorkApp {
 //            if (n < 0) {
 //            }
 //            if (n > 0) {
-//                
+//
 //            }
 //        }
 //        System.out.println(Arrays.toString(in));
